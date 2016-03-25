@@ -1,3 +1,5 @@
+# plugins=(archlinux command-not-found dircycle systemd supervisor history history-substring-search colorize colored-man screen gitfast git-flow git-remote-branch git-extras github python pip virtualenv gem mvn redis-cli sublime themes zsh-syntax-highlighting)
+
 #
 # 
 # System options
